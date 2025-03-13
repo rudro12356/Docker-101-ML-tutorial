@@ -115,6 +115,9 @@ docker build -t flask-ml-app
 ```
 
 ## After the image is built, run the container with:
+
+![image](https://github.com/user-attachments/assets/9487a5cc-b167-4986-8a2d-9f483c2ec41f)
+
 ```
 docker run -p 5000:5000 flask-ml-app
 ```
