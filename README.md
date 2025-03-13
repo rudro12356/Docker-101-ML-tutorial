@@ -117,10 +117,14 @@ docker build -t flask-ml-app
 
 ## After the image is built, run the container with:
 
-![image](https://github.com/user-attachments/assets/9487a5cc-b167-4986-8a2d-9f483c2ec41f)
-
 ```
 docker run -p 5000:5000 flask-ml-app
 ```
 
 ## Test the API using Postman
+![image](https://github.com/user-attachments/assets/9487a5cc-b167-4986-8a2d-9f483c2ec41f)
+
+# Resources
+1. https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fdocker-for-data-scientists%3Ftrk%3Dshare_ent_url%26shareId%3DMQp3OFc3SVacLzKQPF4fJQ%253D%253D
+2. https://www.datacamp.com/tutorial/docker-for-data-science-introduction
+3. Chatgpt
