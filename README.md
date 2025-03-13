@@ -83,7 +83,7 @@ In this section, we’ll containerize a simple Flask application that serves an 
 # DockerFile
 
 ## Use the official Python image from Docker Hub
-FROM python:3.8-slim
+FROM python:3....
 
 ## Set the working directory inside the container
 WORKDIR /app
