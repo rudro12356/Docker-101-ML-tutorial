@@ -1,4 +1,5 @@
 # Docker-101-ML-tutorial
+![image](https://github.com/user-attachments/assets/79fcba91-139f-401a-a033-9e670a0cb21e)
 
 ## Introduction
 
